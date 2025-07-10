@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809447462696",
+    "project_id": "ai-trolley-f8b2e",
+    "storage_bucket": "ai-trolley-f8b2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809447462696:android:cfe4d709748e6fe8fce21d",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3R-XBbJj36uzo8Z4JNJW8oxIoFgUNuF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809447462696:android:321c1d26dcf8c1bffce21d",
+        "android_client_info": {
+          "package_name": "com.example.ai_trolley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3R-XBbJj36uzo8Z4JNJW8oxIoFgUNuF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
