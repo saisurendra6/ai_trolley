@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBHjnMDcj6Sb1R7W6e2hgM5zc32W9Msp90',
+    apiKey: 'API_KEY',
     appId: '1:809447462696:web:09cfce524c868e65fce21d',
     messagingSenderId: '809447462696',
     projectId: 'ai-trolley-f8b2e',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD3R-XBbJj36uzo8Z4JNJW8oxIoFgUNuF4',
+    apiKey: 'API_KEY',
     appId: '1:809447462696:android:321c1d26dcf8c1bffce21d',
     messagingSenderId: '809447462696',
     projectId: 'ai-trolley-f8b2e',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBHjnMDcj6Sb1R7W6e2hgM5zc32W9Msp90',
+    apiKey: 'API_KEY',
     appId: '1:809447462696:web:68ac0651c21d065bfce21d',
     messagingSenderId: '809447462696',
     projectId: 'ai-trolley-f8b2e',
